@@ -6,7 +6,7 @@ What do you know - Explore the competencies, skills, and knowledge where you fee
 
 My competencies, skills, and knowledge have been based on the many years of working in the IT field and first-hand application of security patches, network management, and group policy management. I have been able to perfect these skills on an everyday basis to learn and grow, as well as keeping up with the current policies and procedures through security patches to prevent vulnerabilities on a network or infrastructure.
 
-Where are you weak - Explore the competencies, skills, and knowledge where you feel you are the lest confident and proficient.
+Where are you weak - Explore the competencies, skills, and knowledge where you feel you are the least confident and proficient.
 
 I would have to say my biggest weakness is two different things: the vastness of the entire cybersecurity/network scope required for the healthcare IT infrastructure of the specific devices, and my current knowledge of the requirements of said healthcare IT standards.
 
